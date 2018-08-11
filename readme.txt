@@ -2,7 +2,7 @@ Curso Java Script
 
 Primeiros passos com o JS!
 
-1. Crie a página Web HTML iRock.
+1. Crie a página Web HTML iRock. --- OK ---
 
 2. Adicione um alerta JavaScript para fazer com que a rocha cumprimente os usuários quando a página Web iRock for carregada.
 
