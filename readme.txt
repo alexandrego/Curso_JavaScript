@@ -4,7 +4,7 @@ Primeiros passos com o JS!
 
 1. Crie a página Web HTML iRock. --- OK ---
 
-2. Adicione um alerta JavaScript para fazer com que a rocha cumprimente os usuários quando a página Web iRock for carregada.
+2. Adicione um alerta JavaScript para fazer com que a rocha cumprimente os usuários quando a página Web iRock for carregada. --- OK ---
 
 3. Escreva o código JavaScript para solicitar o nome do usuário, imprimir um cumprimento personalizado e fazer a rocha sorrir.
 
